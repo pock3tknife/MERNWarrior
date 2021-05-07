@@ -2,11 +2,11 @@
 Install dependencies:
 npm install --save
 
-Run User-Api
+Run on User-Api:
 nodemon index.js
 
-Run Mern-stack-api
+Run on Mern-stack-api:
 node index.js
 
-Run ReactApp
+Run ReactApp:
 npm start
